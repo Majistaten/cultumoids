@@ -4,3 +4,5 @@ venv/
 .env
 .idea/
 .vscode/
+secrets.json
+images/*
