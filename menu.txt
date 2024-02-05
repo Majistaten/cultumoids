@@ -1,38 +1,43 @@
-04
+05
 
 monday
 MÅNDAG
-Prinskorv med spenatstuvning och potatis 
-Panerad fiskfilé med gurkremoulad och potatis 
-Kikärtsgryta 
-Indian style med jasminris 
-Fisksoppa
+Pyttipanna med stekt ägg och skivade rödbetor 
+Fiskbiffar med 
+Skagensås och potatis 
+Vegetarisk pyttipanna med 
+Quorn och stekt ägg 
+Kycklingsoppa a la 
+Thai
 
 tuesday
 TISDAG
-Stekt fläsk med löksås och kokt 
-Fiskfilé gratäng med fetaost & chili serveras med kokt potatis 
-Vegetarisk tortellini med ädelostsås 
-Morotssoppa  potatis
+Het kebabgryta med jasminris 
+Panerad fisk med dansk remoulad och potatis 
+Vegetarisk bondomelett med krämig spenatsås 
+Krämig laxsoppa
 
 wednesday
 ONSDAG
-Stekt pannbiff med champinjonsås och 
-Hokifilé med sydfranska grönsaker serveras med citroncrème och kokt potatis 
-Vegetarisk moussaka gratinerad i ugn toppad med ost 
-Het vintersoppa  potatis
+Fetaost- och tomatfylld pannbiff a la 
+Grekland med potatis och tzatziki 
+Fiskpiccata med het tomatsås och jasminris 
+Grönsaksbiffar med örtyoghurt och jasminris 
+Norrländsk viltsoppa
 
 thursday
 TORSDAG
-Stekt svensk kycklingfilé och basilikaaioli serveras med jasminris 
-Fiskfilégratineradmost ochpurjolök serveras med kokt potatis 
-Krämig svamprisotto med grönsaker 
-Spenatsoppa med ägg
+Helstekt fläskkarré med gräddsås och potatis, äppelmos 
+Panerad rödspätta med klassisk gurkremoulad och potatis 
+Vegetarisk 
+Pad 
+Thai med grönsaker 
+Het tomatsoppa med krutonger
 
 friday
 FREDAG
-Viltskavsgryta med riktig perstampa och heta lingon 
-Panerad strömming med potatismos, lingonsylt 
-Vegetarisk pizza med grönsaker och ananas 
-Mustig gulaschsoppa med gräddfilsklick
+Baconlindad fylld kycklingfilé med potatis och chilibearnaisé 
+Grillad laxfilé med chilimango och potatis 
+Vegetarisk enchilada med tomatsalsa och jasminris 
+Potatis- och fänkålssoppa
 
