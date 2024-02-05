@@ -1,43 +1,42 @@
-05
+06
 
 monday
 MÅNDAG
-Pyttipanna med stekt ägg och skivade rödbetor 
-Fiskbiffar med 
-Skagensås och potatis 
-Vegetarisk pyttipanna med 
-Quorn och stekt ägg 
-Kycklingsoppa a la 
-Thai
+Spagetti 
+Bolognese toppad med riven ost 
+Mtuzi wa samaki fisk i cocoscurry från 
+Tanzania; med ris 
+Falafel med vitlöksyoghurt serveras med jasminris 
+Krämig blomkålssoppa
 
 tuesday
 TISDAG
-Het kebabgryta med jasminris 
-Panerad fisk med dansk remoulad och potatis 
-Vegetarisk bondomelett med krämig spenatsås 
-Krämig laxsoppa
+Nystekta raggmunkar med krispigt fläsk och lingonsylt 
+Ostgratinerad hokifilé med räksås serveras med kokt potatis 
+Grillstekt tofu på en bädd av grönsaker och jasminris 
+Grönkålssoppa med ägg
 
 wednesday
 ONSDAG
-Fetaost- och tomatfylld pannbiff a la 
-Grekland med potatis och tzatziki 
-Fiskpiccata med het tomatsås och jasminris 
-Grönsaksbiffar med örtyoghurt och jasminris 
-Norrländsk viltsoppa
+Köttfärslimpa fylld med bacon serveras med rödlökssås och potatis 
+Nachopanerad fiskfilé med tartarsås och potatis 
+Marockansk 
+Harira-gryta på pumpa och kikärtor med couscous 
+Räk- och fisksoppa
 
 thursday
 TORSDAG
-Helstekt fläskkarré med gräddsås och potatis, äppelmos 
-Panerad rödspätta med klassisk gurkremoulad och potatis 
-Vegetarisk 
-Pad 
-Thai med grönsaker 
-Het tomatsoppa med krutonger
+Nordafrikansk kyckling med bulgur och torkade aprikoser 
+Ugnsbakad fisk fänkål och purjolök, dressad m vitvinsbuljong 
+Jordärtkocksgratäng med västerbottenost 
+Potatis- och purjolökssoppa
 
 friday
 FREDAG
-Baconlindad fylld kycklingfilé med potatis och chilibearnaisé 
-Grillad laxfilé med chilimango och potatis 
-Vegetarisk enchilada med tomatsalsa och jasminris 
-Potatis- och fänkålssoppa
+Lammfärsjärpar med fetaostcréme och smakrik rotfruktsfräs 
+Panerad fisk med klassisk dillsås och potatis 
+Vegetarisk 
+Nasi 
+Goreng med ägg och en kall currysås 
+Vitkålssoppa med färs
 
