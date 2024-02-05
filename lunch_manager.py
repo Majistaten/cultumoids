@@ -17,7 +17,7 @@ day_menu = {
 def load_menu() -> None:
     print('Loading menu...')
     try:
-        with open('menu.txt', 'r') as file:
+        with open('menu.txt', 'r', encoding="utf-8") as file:
             if _get_current_week() != file.readline().strip():
                 update_menu()
             file.readline()
@@ -35,7 +35,7 @@ def load_menu() -> None:
         load_menu()
 
 
-    with open('menu.txt', 'r') as file:
+    with open('menu.txt', 'r', encoding="utf-8") as file:
         if _get_current_week() != file.readline().strip():
             update_menu()
         file.readline()
