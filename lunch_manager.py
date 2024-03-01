@@ -3,6 +3,7 @@ import image_downloader
 import lunch_extractor
 import image_processor
 import datetime
+import os
 
 PATH = "./images"
 day_menu = {"monday": [], "tuesday": [], "wednesday": [], "thursday": [], "friday": []}
@@ -10,24 +11,8 @@ day_menu = {"monday": [], "tuesday": [], "wednesday": [], "thursday": [], "frida
 
 def load_menu() -> None:
     print("Loading menu...")
-    try:
-        with open("menu.txt", "r", encoding="utf-8") as file:
-            if _get_current_week() != file.readline().strip():
-                update_menu()
-            file.readline()
-            for day in day_menu:
-                day_menu[day] = []
-                while True:
-                    line = file.readline().strip()
-                    if line.startswith(tuple(day_menu.keys())):
-                        continue
-                    if not line:
-                        break
-                    day_menu[day].append(line)
-    except FileNotFoundError:
+    if not os.path.exists("menu.txt"):
         update_menu()
-        load_menu()
-
     with open("menu.txt", "r", encoding="utf-8") as file:
         if _get_current_week() != file.readline().strip():
             update_menu()
