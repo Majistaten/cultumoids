@@ -54,9 +54,9 @@ async def uppdatera(ctx):
     await ctx.send("Menyn har uppdaterats")
 
 
-@bot.command(name="bild", help="Visar dagens lunchbild")
-async def bild(ctx):
-    await ctx.send(file=discord.File("dagens_lunch.png"))
+@bot.command(name="bög", help="Visar dagens lunchbild")
+async def bog(ctx):
+    await ctx.send("Tagga ner nu lillen. - Örjan")
 
 
 @bot.command(name="h", help="Visar alla kommandon")
@@ -65,7 +65,6 @@ async def h(ctx):
         """
     !mat - Visar dagens lunch
     !meny - Visar veckans meny
-    !bild - Visar dagens lunchbild
     !måndag - Visar måndagens lunch
     !tisdag - Visar tisdagens lunch
     !onsdag - Visar onsdagens lunch
