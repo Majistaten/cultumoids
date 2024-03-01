@@ -6,3 +6,4 @@ venv/
 .vscode/
 secrets.json
 images/*.png
+menu.txt
